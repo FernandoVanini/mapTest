@@ -1,0 +1,3832 @@
+[
+    {
+        "estado": "SP",
+        "cidade": "Adamantina",
+        "lat": -22,
+        "lng": -51,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Agua\u00ed",
+        "lat": -22,
+        "lng": -47,
+        "valor": 89827,
+        "quant": 123,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "\u00c1guas da Prata",
+        "lat": -22,
+        "lng": -47,
+        "valor": 1543,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "\u00c1guas de Lind\u00f3ia",
+        "lat": -22,
+        "lng": -47,
+        "valor": 184735,
+        "quant": 235,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "\u00c1guas de Santa B\u00e1rbara",
+        "lat": -23,
+        "lng": -49,
+        "valor": 43,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Alfredo Marcondes",
+        "lat": -22,
+        "lng": -51,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Alto Alegre",
+        "lat": -22,
+        "lng": -50,
+        "valor": 486,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Americana",
+        "lat": -23,
+        "lng": -47,
+        "valor": 883012,
+        "quant": 1277,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Amparo",
+        "lat": -23,
+        "lng": -47,
+        "valor": 294116,
+        "quant": 530,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Angatuba",
+        "lat": -23,
+        "lng": -48,
+        "valor": 1431,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Anhembi",
+        "lat": -23,
+        "lng": -48,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Aparecida",
+        "lat": -23,
+        "lng": -45,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ara\u00e7atuba",
+        "lat": -21,
+        "lng": -50,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Araraquara",
+        "lat": -22,
+        "lng": -48,
+        "valor": 822,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Araras",
+        "lat": -22,
+        "lng": -47,
+        "valor": 27175,
+        "quant": 86,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Artur Nogueira",
+        "lat": -23,
+        "lng": -47,
+        "valor": 248507,
+        "quant": 529,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Aruj\u00e1",
+        "lat": -23,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Assis",
+        "lat": -23,
+        "lng": -50,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Atibaia",
+        "lat": -23,
+        "lng": -47,
+        "valor": 517373,
+        "quant": 714,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Barra Bonita",
+        "lat": -22,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Barretos",
+        "lat": -21,
+        "lng": -49,
+        "valor": 148,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Barueri",
+        "lat": -24,
+        "lng": -47,
+        "valor": 4719,
+        "quant": 16,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Bauru",
+        "lat": -22,
+        "lng": -49,
+        "valor": 822,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Bebedouro",
+        "lat": -21,
+        "lng": -48,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Biritiba-Mirim",
+        "lat": -24,
+        "lng": -46,
+        "valor": 793,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Boituva",
+        "lat": -23,
+        "lng": -48,
+        "valor": 5514,
+        "quant": 19,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Bom Jesus dos Perd?es",
+        "lat": -23,
+        "lng": -46,
+        "valor": 62959,
+        "quant": 107,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Botucatu",
+        "lat": -23,
+        "lng": -48,
+        "valor": 1338,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Bragan\u00e7a Paulista",
+        "lat": -23,
+        "lng": -47,
+        "valor": 309178,
+        "quant": 537,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cabre\u00fava",
+        "lat": -23,
+        "lng": -47,
+        "valor": 34542,
+        "quant": 63,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ca\u00e7apava",
+        "lat": -23,
+        "lng": -46,
+        "valor": 14170,
+        "quant": 13,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Caconde",
+        "lat": -22,
+        "lng": -47,
+        "valor": 8394,
+        "quant": 28,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Caieiras",
+        "lat": -23,
+        "lng": -47,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Caiu\u00e1",
+        "lat": -22,
+        "lng": -52,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cajamar",
+        "lat": -23,
+        "lng": -47,
+        "valor": 13904,
+        "quant": 61,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Campo Limpo Paulista",
+        "lat": -23,
+        "lng": -47,
+        "valor": 47619,
+        "quant": 112,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Campos do Jord\u00e3o",
+        "lat": -23,
+        "lng": -46,
+        "valor": 9696,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "C\u00e2ndido Mota",
+        "lat": -23,
+        "lng": -50,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cap\u00e3o Bonito",
+        "lat": -24,
+        "lng": -48,
+        "valor": 4369,
+        "quant": 9,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Capivari",
+        "lat": -23,
+        "lng": -48,
+        "valor": 23226,
+        "quant": 72,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Caraguatatuba",
+        "lat": -24,
+        "lng": -45,
+        "valor": 1954,
+        "quant": 10,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Casa Branca",
+        "lat": -22,
+        "lng": -47,
+        "valor": 50354,
+        "quant": 75,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Catigu\u00e1",
+        "lat": -21,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cerquilho",
+        "lat": -23,
+        "lng": -48,
+        "valor": 10287,
+        "quant": 9,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Charqueada",
+        "lat": -23,
+        "lng": -48,
+        "valor": 830,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Conchal",
+        "lat": -22,
+        "lng": -47,
+        "valor": 10011,
+        "quant": 42,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cordeir\u00f3polis",
+        "lat": -22,
+        "lng": -47,
+        "valor": 11252,
+        "quant": 47,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Corumbata\u00ed",
+        "lat": -22,
+        "lng": -48,
+        "valor": 6416,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cosm\u00f3polis",
+        "lat": -23,
+        "lng": -47,
+        "valor": 317588,
+        "quant": 574,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cotia",
+        "lat": -24,
+        "lng": -47,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cruzeiro",
+        "lat": -23,
+        "lng": -45,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Cunha",
+        "lat": -23,
+        "lng": -45,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Divinol\u00e2ndia",
+        "lat": -22,
+        "lng": -47,
+        "valor": 4615,
+        "quant": 26,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Dois C\u00f3rregos",
+        "lat": -22,
+        "lng": -48,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Duartina",
+        "lat": -22,
+        "lng": -49,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Eldorado",
+        "lat": -25,
+        "lng": -48,
+        "valor": 450,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Elias Fausto",
+        "lat": -23,
+        "lng": -47,
+        "valor": 20273,
+        "quant": 64,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Engenheiro Coelho",
+        "lat": -22,
+        "lng": -47,
+        "valor": 20950,
+        "quant": 32,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Esp\u00edrito Santo do Pinhal",
+        "lat": -22,
+        "lng": -47,
+        "valor": 84026,
+        "quant": 141,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Estiva Gerbi",
+        "lat": -22,
+        "lng": -47,
+        "valor": 5797,
+        "quant": 14,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Fernand\u00f3polis",
+        "lat": -20,
+        "lng": -50,
+        "valor": 444,
+        "quant": 10,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ferraz de Vasconcelos",
+        "lat": -24,
+        "lng": -46,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Franca",
+        "lat": -21,
+        "lng": -47,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Francisco Morato",
+        "lat": -23,
+        "lng": -47,
+        "valor": 12598,
+        "quant": 52,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Franco da Rocha",
+        "lat": -23,
+        "lng": -47,
+        "valor": 1720,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Guara\u00e7a\u00ed",
+        "lat": -21,
+        "lng": -51,
+        "valor": 1015,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Guaratinguet\u00e1",
+        "lat": -23,
+        "lng": -45,
+        "valor": 1600,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Guaruj\u00e1",
+        "lat": -24,
+        "lng": -46,
+        "valor": 1061,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Guarulhos",
+        "lat": -23,
+        "lng": -47,
+        "valor": 19066,
+        "quant": 19,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Guzol\u00e2ndia",
+        "lat": -21,
+        "lng": -51,
+        "valor": 341,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Holambra",
+        "lat": -23,
+        "lng": -47,
+        "valor": 139376,
+        "quant": 162,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Hortol\u00e2ndia",
+        "lat": -23,
+        "lng": -47,
+        "valor": 1032093,
+        "quant": 1814,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ibat\u00e9",
+        "lat": -22,
+        "lng": -48,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ibi\u00fana",
+        "lat": -24,
+        "lng": -47,
+        "valor": 10957,
+        "quant": 32,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Igarapava",
+        "lat": -20,
+        "lng": -48,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Indaiatuba",
+        "lat": -23,
+        "lng": -47,
+        "valor": 1017657,
+        "quant": 1352,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Indiapor\u00e3",
+        "lat": -20,
+        "lng": -50,
+        "valor": 486,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Iper\u00f3",
+        "lat": -23,
+        "lng": -48,
+        "valor": 1871,
+        "quant": 9,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ipe\u00fana",
+        "lat": -22,
+        "lng": -48,
+        "valor": 6398,
+        "quant": 17,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Iracem\u00e1polis",
+        "lat": -23,
+        "lng": -48,
+        "valor": 7870,
+        "quant": 40,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itanha\u00e9m",
+        "lat": -24,
+        "lng": -47,
+        "valor": 4536,
+        "quant": 15,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itapecerica da Serra",
+        "lat": -24,
+        "lng": -47,
+        "valor": 588,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itapetininga",
+        "lat": -24,
+        "lng": -48,
+        "valor": 3417,
+        "quant": 20,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itapeva",
+        "lat": -24,
+        "lng": -49,
+        "valor": 261,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itapevi",
+        "lat": -24,
+        "lng": -47,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itapira",
+        "lat": -22,
+        "lng": -47,
+        "valor": 240453,
+        "quant": 368,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itaquaquecetuba",
+        "lat": -23,
+        "lng": -46,
+        "valor": 167,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itarar\u00e9",
+        "lat": -24,
+        "lng": -49,
+        "valor": 637,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itatiba",
+        "lat": -23,
+        "lng": -47,
+        "valor": 237050,
+        "quant": 387,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itirapina",
+        "lat": -22,
+        "lng": -48,
+        "valor": 7043,
+        "quant": 21,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itobi",
+        "lat": -22,
+        "lng": -47,
+        "valor": 5556,
+        "quant": 14,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itu",
+        "lat": -23,
+        "lng": -47,
+        "valor": 21895,
+        "quant": 69,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Itupeva",
+        "lat": -23,
+        "lng": -47,
+        "valor": 13133,
+        "quant": 36,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jacare\u00ed",
+        "lat": -23,
+        "lng": -46,
+        "valor": 4883,
+        "quant": 17,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jaguari\u00fana",
+        "lat": -23,
+        "lng": -47,
+        "valor": 358630,
+        "quant": 551,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jales",
+        "lat": -20,
+        "lng": -51,
+        "valor": 1600,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jambeiro",
+        "lat": -23,
+        "lng": -46,
+        "valor": 239,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jarinu",
+        "lat": -23,
+        "lng": -47,
+        "valor": 15970,
+        "quant": 31,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ja\u00fa",
+        "lat": -22,
+        "lng": -49,
+        "valor": 346,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Joan\u00f3polis",
+        "lat": -23,
+        "lng": -46,
+        "valor": 49560,
+        "quant": 67,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jumirim",
+        "lat": -23,
+        "lng": -48,
+        "valor": 776,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Jundia\u00ed",
+        "lat": -23,
+        "lng": -47,
+        "valor": 129685,
+        "quant": 366,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Leme",
+        "lat": -22,
+        "lng": -47,
+        "valor": 29660,
+        "quant": 77,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Limeira",
+        "lat": -23,
+        "lng": -47,
+        "valor": 86339,
+        "quant": 376,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Lind\u00f3ia",
+        "lat": -23,
+        "lng": -47,
+        "valor": 53573,
+        "quant": 71,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Lins",
+        "lat": -22,
+        "lng": -50,
+        "valor": 294,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Lorena",
+        "lat": -23,
+        "lng": -45,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Louveira",
+        "lat": -23,
+        "lng": -47,
+        "valor": 24647,
+        "quant": 50,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mairinque",
+        "lat": -24,
+        "lng": -47,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mairipor\u00e3",
+        "lat": -23,
+        "lng": -47,
+        "valor": 2090,
+        "quant": 11,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Marapoama",
+        "lat": -21,
+        "lng": -49,
+        "valor": 22,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mar\u00edlia",
+        "lat": -22,
+        "lng": -50,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mat\u00e3o",
+        "lat": -22,
+        "lng": -48,
+        "valor": 22,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mirand\u00f3polis",
+        "lat": -21,
+        "lng": -51,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mirassol\u00e2ndia",
+        "lat": -21,
+        "lng": -49,
+        "valor": 22,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mococa",
+        "lat": -21,
+        "lng": -47,
+        "valor": 31131,
+        "quant": 130,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mogi das Cruzes",
+        "lat": -24,
+        "lng": -46,
+        "valor": 1015,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mogi Gua\u00e7u",
+        "lat": -22,
+        "lng": -47,
+        "valor": 191071,
+        "quant": 342,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mogi Mirim",
+        "lat": -22,
+        "lng": -47,
+        "valor": 128934,
+        "quant": 190,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Mombuca",
+        "lat": -23,
+        "lng": -48,
+        "valor": 675,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Monte Alegre do Sul",
+        "lat": -23,
+        "lng": -47,
+        "valor": 50559,
+        "quant": 99,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Monte Azul Paulista",
+        "lat": -21,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Monte Mor",
+        "lat": -23,
+        "lng": -47,
+        "valor": 400656,
+        "quant": 617,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Morungaba",
+        "lat": -23,
+        "lng": -47,
+        "valor": 49957,
+        "quant": 55,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Natividade da Serra",
+        "lat": -23,
+        "lng": -45,
+        "valor": 9,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Nazar\u00e9 Paulista",
+        "lat": -23,
+        "lng": -46,
+        "valor": 62427,
+        "quant": 106,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Nova Campina",
+        "lat": -24,
+        "lng": -49,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Nova Odessa",
+        "lat": -23,
+        "lng": -47,
+        "valor": 398403,
+        "quant": 590,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Novo Horizonte",
+        "lat": -21,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Oriente",
+        "lat": -22,
+        "lng": -50,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Orl\u00e2ndia",
+        "lat": -21,
+        "lng": -48,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Osasco",
+        "lat": -24,
+        "lng": -47,
+        "valor": 479,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Osvaldo Cruz",
+        "lat": -22,
+        "lng": -51,
+        "valor": 22,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ourinhos",
+        "lat": -23,
+        "lng": -50,
+        "valor": 1600,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ouro Verde",
+        "lat": -21,
+        "lng": -52,
+        "valor": 52,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Paraibuna",
+        "lat": -23,
+        "lng": -46,
+        "valor": 2400,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Para\u00edso",
+        "lat": -21,
+        "lng": -49,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Paranapu\u00e3",
+        "lat": -20,
+        "lng": -51,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pariquera-A\u00e7u",
+        "lat": -25,
+        "lng": -48,
+        "valor": 543,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Paul\u00ednia",
+        "lat": -23,
+        "lng": -47,
+        "valor": 357929,
+        "quant": 601,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pederneiras",
+        "lat": -22,
+        "lng": -49,
+        "valor": 1600,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pedra Bela",
+        "lat": -23,
+        "lng": -46,
+        "valor": 13787,
+        "quant": 28,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pedreira",
+        "lat": -23,
+        "lng": -47,
+        "valor": 182585,
+        "quant": 366,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pen\u00e1polis",
+        "lat": -21,
+        "lng": -50,
+        "valor": 5139,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pereira Barreto",
+        "lat": -21,
+        "lng": -51,
+        "valor": 300,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pereiras",
+        "lat": -23,
+        "lng": -48,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Piedade",
+        "lat": -24,
+        "lng": -47,
+        "valor": 1400,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pilar do Sul",
+        "lat": -24,
+        "lng": -48,
+        "valor": 538,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pindamonhangaba",
+        "lat": -23,
+        "lng": -45,
+        "valor": 1194,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pinhalzinho",
+        "lat": -23,
+        "lng": -47,
+        "valor": 52260,
+        "quant": 104,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Piracaia",
+        "lat": -23,
+        "lng": -46,
+        "valor": 74201,
+        "quant": 142,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Piracicaba",
+        "lat": -23,
+        "lng": -48,
+        "valor": 64643,
+        "quant": 169,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pirapozinho",
+        "lat": -22,
+        "lng": -51,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Pirassununga",
+        "lat": -22,
+        "lng": -47,
+        "valor": 10371,
+        "quant": 48,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Platina",
+        "lat": -23,
+        "lng": -50,
+        "valor": 600,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Po\u00e1",
+        "lat": -24,
+        "lng": -46,
+        "valor": 729,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Porto Feliz",
+        "lat": -23,
+        "lng": -48,
+        "valor": 3343,
+        "quant": 13,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Porto Ferreira",
+        "lat": -22,
+        "lng": -47,
+        "valor": 1114,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Praia Grande",
+        "lat": -24,
+        "lng": -46,
+        "valor": 108,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Presidente Prudente",
+        "lat": -22,
+        "lng": -51,
+        "valor": 3451,
+        "quant": 9,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Rafard",
+        "lat": -23,
+        "lng": -48,
+        "valor": 4917,
+        "quant": 22,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ribeir\u00e3o Grande",
+        "lat": -24,
+        "lng": -48,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ribeir\u00e3o Preto",
+        "lat": -21,
+        "lng": -48,
+        "valor": 108,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Rio Claro",
+        "lat": -22,
+        "lng": -48,
+        "valor": 78587,
+        "quant": 212,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Rio das Pedras",
+        "lat": -23,
+        "lng": -48,
+        "valor": 9621,
+        "quant": 26,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Rio Grande da Serra",
+        "lat": -24,
+        "lng": -46,
+        "valor": 47184,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Roseira",
+        "lat": -23,
+        "lng": -45,
+        "valor": 5904,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Saltinho",
+        "lat": -23,
+        "lng": -48,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Salto",
+        "lat": -23,
+        "lng": -47,
+        "valor": 88530,
+        "quant": 185,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Salto de Pirapora",
+        "lat": -24,
+        "lng": -48,
+        "valor": 1377,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa B\u00e1rbara d'Oeste",
+        "lat": -23,
+        "lng": -47,
+        "valor": 739420,
+        "quant": 1316,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Cruz da Concei\u00e7\u00e3o",
+        "lat": -22,
+        "lng": -47,
+        "valor": 556,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Cruz das Palmeiras",
+        "lat": -22,
+        "lng": -47,
+        "valor": 18003,
+        "quant": 63,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Cruz do Rio Pardo",
+        "lat": -23,
+        "lng": -50,
+        "valor": 818,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Gertrudes",
+        "lat": -22,
+        "lng": -48,
+        "valor": 4533,
+        "quant": 23,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Maria da Serra",
+        "lat": -23,
+        "lng": -48,
+        "valor": 7963,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Rita do Passa Quatro",
+        "lat": -22,
+        "lng": -47,
+        "valor": 353,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santa Salete",
+        "lat": -20,
+        "lng": -51,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santana de Parna\u00edba",
+        "lat": -23,
+        "lng": -47,
+        "valor": 1641,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santo Ant\u00f4nio de Posse",
+        "lat": -23,
+        "lng": -47,
+        "valor": 126397,
+        "quant": 268,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Santo Ant\u00f4nio do Jardim",
+        "lat": -22,
+        "lng": -47,
+        "valor": 12441,
+        "quant": 24,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Bernardo do Campo",
+        "lat": -24,
+        "lng": -47,
+        "valor": 5063,
+        "quant": 11,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Caetano do Sul",
+        "lat": -24,
+        "lng": -47,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Carlos",
+        "lat": -22,
+        "lng": -48,
+        "valor": 4583,
+        "quant": 17,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Jo\u00e3o da Boa Vista",
+        "lat": -22,
+        "lng": -47,
+        "valor": 100156,
+        "quant": 161,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Joaquim da Barra",
+        "lat": -21,
+        "lng": -48,
+        "valor": 675,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Jos\u00e9 do Rio Pardo",
+        "lat": -22,
+        "lng": -47,
+        "valor": 70839,
+        "quant": 112,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Jos\u00e9 do Rio Preto",
+        "lat": -21,
+        "lng": -49,
+        "valor": 1769,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Jos\u00e9 dos Campos",
+        "lat": -23,
+        "lng": -46,
+        "valor": 20442,
+        "quant": 45,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Louren\u00e7o da Serra",
+        "lat": -24,
+        "lng": -47,
+        "valor": 600,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Lu\u00eds do Paraitinga",
+        "lat": -23,
+        "lng": -45,
+        "valor": 253,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Paulo",
+        "lat": -24,
+        "lng": -47,
+        "valor": 34962,
+        "quant": 90,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Pedro",
+        "lat": -23,
+        "lng": -48,
+        "valor": 9328,
+        "quant": 22,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Roque",
+        "lat": -24,
+        "lng": -47,
+        "valor": 868,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Sebasti\u00e3o",
+        "lat": -24,
+        "lng": -45,
+        "valor": 51,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Sebasti\u00e3o da Grama",
+        "lat": -22,
+        "lng": -47,
+        "valor": 13795,
+        "quant": 34,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "S\u00e3o Vicente",
+        "lat": -24,
+        "lng": -46,
+        "valor": 1043,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Serra Negra",
+        "lat": -23,
+        "lng": -47,
+        "valor": 199394,
+        "quant": 303,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Socorro",
+        "lat": -23,
+        "lng": -47,
+        "valor": 193531,
+        "quant": 247,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Sorocaba",
+        "lat": -23,
+        "lng": -47,
+        "valor": 30840,
+        "quant": 132,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Sumar\u00e9",
+        "lat": -23,
+        "lng": -47,
+        "valor": 1550113,
+        "quant": 2652,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Suzano",
+        "lat": -24,
+        "lng": -46,
+        "valor": 916,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tabo\u00e3o da Serra",
+        "lat": -24,
+        "lng": -47,
+        "valor": 926,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tamba\u00fa",
+        "lat": -22,
+        "lng": -47,
+        "valor": 5075,
+        "quant": 36,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tapira\u00ed",
+        "lat": -24,
+        "lng": -48,
+        "valor": 167,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tapiratiba",
+        "lat": -21,
+        "lng": -47,
+        "valor": 23306,
+        "quant": 40,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Taquaritinga",
+        "lat": -21,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tatu\u00ed",
+        "lat": -23,
+        "lng": -48,
+        "valor": 4674,
+        "quant": 11,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Taubat\u00e9",
+        "lat": -23,
+        "lng": -46,
+        "valor": 6301,
+        "quant": 23,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tiet\u00ea",
+        "lat": -23,
+        "lng": -48,
+        "valor": 1356,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Torre de Pedra",
+        "lat": -23,
+        "lng": -48,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Trememb\u00e9",
+        "lat": -23,
+        "lng": -46,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tuiuti",
+        "lat": -23,
+        "lng": -47,
+        "valor": 18210,
+        "quant": 39,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Tup\u00e3",
+        "lat": -22,
+        "lng": -51,
+        "valor": 2850,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Ubatuba",
+        "lat": -23,
+        "lng": -45,
+        "valor": 319,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Valinhos",
+        "lat": -23,
+        "lng": -47,
+        "valor": 513105,
+        "quant": 990,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Valpara\u00edso",
+        "lat": -21,
+        "lng": -51,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Vargem",
+        "lat": -23,
+        "lng": -46,
+        "valor": 27746,
+        "quant": 56,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Vargem Grande do Sul",
+        "lat": -22,
+        "lng": -47,
+        "valor": 46324,
+        "quant": 91,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "V\u00e1rzea Paulista",
+        "lat": -23,
+        "lng": -47,
+        "valor": 36563,
+        "quant": 134,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Vinhedo",
+        "lat": -23,
+        "lng": -47,
+        "valor": 282845,
+        "quant": 492,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Viradouro",
+        "lat": -21,
+        "lng": -48,
+        "valor": 51,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Votorantim",
+        "lat": -24,
+        "lng": -47,
+        "valor": 1655,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SP",
+        "cidade": "Votuporanga",
+        "lat": -20,
+        "lng": -50,
+        "valor": 3793,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Albertina",
+        "lat": -22,
+        "lng": -47,
+        "valor": 2034,
+        "quant": 10,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Alfenas",
+        "lat": -21,
+        "lng": -46,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Alpin\u00f3polis",
+        "lat": -21,
+        "lng": -46,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Andradas",
+        "lat": -22,
+        "lng": -47,
+        "valor": 6521,
+        "quant": 31,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Arax\u00e1",
+        "lat": -20,
+        "lng": -47,
+        "valor": 405,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Arceburgo",
+        "lat": -21,
+        "lng": -47,
+        "valor": 226,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Bandeira do Sul",
+        "lat": -22,
+        "lng": -46,
+        "valor": 707,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Belo Horizonte",
+        "lat": -20,
+        "lng": -44,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Bocaina de Minas",
+        "lat": -22,
+        "lng": -44,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Borda da Mata",
+        "lat": -22,
+        "lng": -46,
+        "valor": 2590,
+        "quant": 9,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Botelhos",
+        "lat": -22,
+        "lng": -46,
+        "valor": 1052,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Braz\u00f3polis",
+        "lat": -22,
+        "lng": -46,
+        "valor": 1618,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Bueno Brand\u00e3o",
+        "lat": -22,
+        "lng": -46,
+        "valor": 1295,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Cabo Verde",
+        "lat": -21,
+        "lng": -46,
+        "valor": 879,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Cachoeira de Minas",
+        "lat": -22,
+        "lng": -46,
+        "valor": 834,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Caldas",
+        "lat": -22,
+        "lng": -46,
+        "valor": 15011,
+        "quant": 17,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Camanducaia",
+        "lat": -23,
+        "lng": -46,
+        "valor": 2717,
+        "quant": 19,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Cambu\u00ed",
+        "lat": -23,
+        "lng": -46,
+        "valor": 4038,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Campestre",
+        "lat": -22,
+        "lng": -46,
+        "valor": 2727,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Campo do Meio",
+        "lat": -21,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Campos Gerais",
+        "lat": -21,
+        "lng": -46,
+        "valor": 1291,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Capit\u00f3lio",
+        "lat": -21,
+        "lng": -46,
+        "valor": 2575,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Concei\u00e7\u00e3o da Aparecida",
+        "lat": -21,
+        "lng": -46,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Congonhal",
+        "lat": -22,
+        "lng": -46,
+        "valor": 591,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Coromandel",
+        "lat": -18,
+        "lng": -47,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Coronel Fabriciano",
+        "lat": -20,
+        "lng": -43,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "C\u00f3rrego do Bom Jesus",
+        "lat": -23,
+        "lng": -46,
+        "valor": 1405,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "El\u00f3i Mendes",
+        "lat": -22,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Estiva",
+        "lat": -22,
+        "lng": -46,
+        "valor": 105,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Estrela do Sul",
+        "lat": -19,
+        "lng": -48,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Extrema",
+        "lat": -23,
+        "lng": -46,
+        "valor": 4298,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Frutal",
+        "lat": -20,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Guap\u00e9",
+        "lat": -21,
+        "lng": -46,
+        "valor": 348,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Guaran\u00e9sia",
+        "lat": -21,
+        "lng": -47,
+        "valor": 98,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Guaxup\u00e9",
+        "lat": -21,
+        "lng": -47,
+        "valor": 377,
+        "quant": 11,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Iguatama",
+        "lat": -20,
+        "lng": -46,
+        "valor": 189,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Inconfidentes",
+        "lat": -22,
+        "lng": -46,
+        "valor": 3667,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Ipatinga",
+        "lat": -19,
+        "lng": -43,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Ipui\u00fana",
+        "lat": -22,
+        "lng": -46,
+        "valor": 2701,
+        "quant": 8,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Itajub\u00e1",
+        "lat": -22,
+        "lng": -45,
+        "valor": 1945,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Jacutinga",
+        "lat": -22,
+        "lng": -47,
+        "valor": 28752,
+        "quant": 70,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Juruaia",
+        "lat": -21,
+        "lng": -47,
+        "valor": 2437,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Lavras",
+        "lat": -21,
+        "lng": -45,
+        "valor": 167,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Liberdade",
+        "lat": -22,
+        "lng": -44,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Machado",
+        "lat": -22,
+        "lng": -46,
+        "valor": 895,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Malacacheta",
+        "lat": -18,
+        "lng": -42,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Maria da F\u00e9",
+        "lat": -22,
+        "lng": -45,
+        "valor": 2400,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Marmel\u00f3polis",
+        "lat": -22,
+        "lng": -45,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Monte Santo de Minas",
+        "lat": -21,
+        "lng": -47,
+        "valor": 600,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Monte Si\u00e3o",
+        "lat": -22,
+        "lng": -47,
+        "valor": 9582,
+        "quant": 22,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Ouro Fino",
+        "lat": -22,
+        "lng": -46,
+        "valor": 25037,
+        "quant": 28,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Paragua\u00e7u",
+        "lat": -22,
+        "lng": -46,
+        "valor": 486,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Parais\u00f3polis",
+        "lat": -23,
+        "lng": -46,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Passa Quatro",
+        "lat": -22,
+        "lng": -45,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Passos",
+        "lat": -21,
+        "lng": -47,
+        "valor": 1391,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Patos de Minas",
+        "lat": -19,
+        "lng": -47,
+        "valor": 6745,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Patroc\u00ednio",
+        "lat": -19,
+        "lng": -47,
+        "valor": 5500,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Pirangu\u00e7u",
+        "lat": -23,
+        "lng": -45,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Po\u00e7o Fundo",
+        "lat": -22,
+        "lng": -46,
+        "valor": 167,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Po\u00e7os de Caldas",
+        "lat": -22,
+        "lng": -47,
+        "valor": 31523,
+        "quant": 26,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Pouso Alegre",
+        "lat": -22,
+        "lng": -46,
+        "valor": 19230,
+        "quant": 17,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Riachinho",
+        "lat": -16,
+        "lng": -46,
+        "valor": 1600,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Riacho dos Machados",
+        "lat": -16,
+        "lng": -43,
+        "valor": 600,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Santa Maria do Sua\u00e7u\u00ed",
+        "lat": -18,
+        "lng": -42,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Santa Rita de Caldas",
+        "lat": -22,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Santa Rita do Sapuca\u00ed",
+        "lat": -22,
+        "lng": -46,
+        "valor": 2245,
+        "quant": 7,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Santos Dumont",
+        "lat": -21,
+        "lng": -44,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "S\u00e3o Jo\u00e3o da Mata",
+        "lat": -22,
+        "lng": -46,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "S\u00e3o Pedro da Uni\u00e3o",
+        "lat": -21,
+        "lng": -47,
+        "valor": 1618,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "S\u00e3o Sebasti\u00e3o da Bela Vista",
+        "lat": -22,
+        "lng": -46,
+        "valor": 43,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Senador Amaral",
+        "lat": -23,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Senador Jos\u00e9 Bento",
+        "lat": -22,
+        "lng": -46,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Soledade de Minas",
+        "lat": -22,
+        "lng": -45,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Tocos do Moji",
+        "lat": -22,
+        "lng": -46,
+        "valor": 747,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Toledo",
+        "lat": -23,
+        "lng": -46,
+        "valor": 2717,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Tr\u00eas Cora\u00e7?es",
+        "lat": -22,
+        "lng": -45,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Tr\u00eas Pontas",
+        "lat": -21,
+        "lng": -46,
+        "valor": 294,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Turvol\u00e2ndia",
+        "lat": -22,
+        "lng": -46,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Uberaba",
+        "lat": -20,
+        "lng": -48,
+        "valor": 1789,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Uberl\u00e2ndia",
+        "lat": -19,
+        "lng": -48,
+        "valor": 3200,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Uni\u00e3o de Minas",
+        "lat": -20,
+        "lng": -50,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Varginha",
+        "lat": -22,
+        "lng": -45,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MG",
+        "cidade": "Wenceslau Braz",
+        "lat": -23,
+        "lng": -45,
+        "valor": 22,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Angra dos Reis",
+        "lat": -23,
+        "lng": -44,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Belford Roxo",
+        "lat": -23,
+        "lng": -43,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Duque de Caxias",
+        "lat": -23,
+        "lng": -43,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Engenheiro Paulo de Frontin",
+        "lat": -23,
+        "lng": -44,
+        "valor": 167,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Japeri",
+        "lat": -23,
+        "lng": -44,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Maric\u00e1",
+        "lat": -23,
+        "lng": -43,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Nova Friburgo",
+        "lat": -22,
+        "lng": -43,
+        "valor": 68,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Nova Igua\u00e7u",
+        "lat": -23,
+        "lng": -43,
+        "valor": 185,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Resende",
+        "lat": -22,
+        "lng": -44,
+        "valor": 185,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro",
+        "lat": -23,
+        "lng": -43,
+        "valor": 893,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "S\u00e3o Francisco de Itabapoana",
+        "lat": -21,
+        "lng": -41,
+        "valor": 1100,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RJ",
+        "cidade": "Volta Redonda",
+        "lat": -23,
+        "lng": -44,
+        "valor": 2000,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Apucarana",
+        "lat": -24,
+        "lng": -51,
+        "valor": 4299,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Arapongas",
+        "lat": -23,
+        "lng": -51,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Atalaia",
+        "lat": -23,
+        "lng": -52,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Castro",
+        "lat": -25,
+        "lng": -50,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Cianorte",
+        "lat": -24,
+        "lng": -53,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Curitiba",
+        "lat": -25,
+        "lng": -49,
+        "valor": 893,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Francisco Beltr\u00e3o",
+        "lat": -26,
+        "lng": -53,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Jesu\u00edtas",
+        "lat": -24,
+        "lng": -53,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Lidian\u00f3polis",
+        "lat": -24,
+        "lng": -52,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Nova Londrina",
+        "lat": -23,
+        "lng": -53,
+        "valor": 400,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Paranava\u00ed",
+        "lat": -23,
+        "lng": -52,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Quer\u00eancia do Norte",
+        "lat": -23,
+        "lng": -53,
+        "valor": 243,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PR",
+        "cidade": "Tijucas do Sul",
+        "lat": -26,
+        "lng": -49,
+        "valor": 9,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "TO",
+        "cidade": "Aragua\u00edna",
+        "lat": -7,
+        "lng": -48,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RO",
+        "cidade": "Ariquemes",
+        "lat": -10,
+        "lng": -63,
+        "valor": 59,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RO",
+        "cidade": "Ji-Paran\u00e1",
+        "lat": -11,
+        "lng": -62,
+        "valor": 294,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RO",
+        "cidade": "S\u00e3o Miguel do Guapor\u00e9",
+        "lat": -12,
+        "lng": -63,
+        "valor": 2200,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "ES",
+        "cidade": "Baixo Guandu",
+        "lat": -20,
+        "lng": -41,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "ES",
+        "cidade": "Cariacica",
+        "lat": -20,
+        "lng": -40,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "ES",
+        "cidade": "Linhares",
+        "lat": -19,
+        "lng": -40,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PA",
+        "cidade": "Bel\u00e9m",
+        "lat": -1,
+        "lng": -48,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PA",
+        "cidade": "Jacareacanga",
+        "lat": -6,
+        "lng": -58,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PA",
+        "cidade": "Marab\u00e1",
+        "lat": -5,
+        "lng": -49,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Bigua\u00e7u",
+        "lat": -27,
+        "lng": -49,
+        "valor": 219,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Bra\u00e7o do Norte",
+        "lat": -28,
+        "lng": -49,
+        "valor": 47,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Chapec\u00f3",
+        "lat": -27,
+        "lng": -53,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florian\u00f3polis",
+        "lat": -28,
+        "lng": -49,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Garuva",
+        "lat": -26,
+        "lng": -49,
+        "valor": 1300,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Itaja\u00ed",
+        "lat": -27,
+        "lng": -49,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Jaragu\u00e1 do Sul",
+        "lat": -26,
+        "lng": -49,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Joinville",
+        "lat": -26,
+        "lng": -49,
+        "valor": 133,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Mafra",
+        "lat": -26,
+        "lng": -50,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SC",
+        "cidade": "Navegantes",
+        "lat": -27,
+        "lng": -49,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "DF",
+        "cidade": "Bras\u00edlia",
+        "lat": -16,
+        "lng": -48,
+        "valor": 2314,
+        "quant": 5,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MS",
+        "cidade": "Campo Grande",
+        "lat": -20,
+        "lng": -55,
+        "valor": 93,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MS",
+        "cidade": "Dourados",
+        "lat": -22,
+        "lng": -55,
+        "valor": 1122,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MS",
+        "cidade": "Jate\u00ed",
+        "lat": -22,
+        "lng": -54,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MS",
+        "cidade": "Parana\u00edba",
+        "lat": -20,
+        "lng": -51,
+        "valor": 600,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Campo Novo do Parecis",
+        "lat": -14,
+        "lng": -58,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Campo Verde",
+        "lat": -16,
+        "lng": -55,
+        "valor": 295,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiab\u00e1",
+        "lat": -16,
+        "lng": -56,
+        "valor": 893,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Jauru",
+        "lat": -15,
+        "lng": -59,
+        "valor": 203,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Nova Ol\u00edmpia",
+        "lat": -15,
+        "lng": -57,
+        "valor": 724,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Quer\u00eancia",
+        "lat": -13,
+        "lng": -52,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Rondon\u00f3polis",
+        "lat": -16,
+        "lng": -55,
+        "valor": 630,
+        "quant": 6,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Sapezal",
+        "lat": -14,
+        "lng": -59,
+        "valor": 126,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "Sinop",
+        "lat": -12,
+        "lng": -56,
+        "valor": 1895,
+        "quant": 4,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "MT",
+        "cidade": "V\u00e1rzea Grande",
+        "lat": -16,
+        "lng": -56,
+        "valor": 564,
+        "quant": 11,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "GO",
+        "cidade": "Catal\u00e3o",
+        "lat": -18,
+        "lng": -48,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "GO",
+        "cidade": "Chapad\u00e3o do C\u00e9u",
+        "lat": -18,
+        "lng": -53,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "GO",
+        "cidade": "Rio Verde",
+        "lat": -18,
+        "lng": -51,
+        "valor": 203,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RS",
+        "cidade": "Erechim",
+        "lat": -28,
+        "lng": -52,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "lat": -30,
+        "lng": -51,
+        "valor": 47,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "RS",
+        "cidade": "Sarandi",
+        "lat": -28,
+        "lng": -53,
+        "valor": 1400,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "BA",
+        "cidade": "Guanambi",
+        "lat": -14,
+        "lng": -43,
+        "valor": 9,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "BA",
+        "cidade": "Itiru\u00e7u",
+        "lat": -14,
+        "lng": -40,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "BA",
+        "cidade": "Livramento de Nossa Senhora",
+        "lat": -14,
+        "lng": -42,
+        "valor": 241,
+        "quant": 2,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "BA",
+        "cidade": "Rio do Pires",
+        "lat": -13,
+        "lng": -42,
+        "valor": 0,
+        "quant": 0,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "AP",
+        "cidade": "Macap\u00e1",
+        "lat": 0,
+        "lng": -51,
+        "valor": 18,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "AL",
+        "cidade": "Macei\u00f3",
+        "lat": -10,
+        "lng": -36,
+        "valor": 893,
+        "quant": 3,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "AM",
+        "cidade": "Manaus",
+        "lat": -3,
+        "lng": -60,
+        "valor": 843,
+        "quant": 19,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "SE",
+        "cidade": "Nossa Senhora do Socorro",
+        "lat": -11,
+        "lng": -37,
+        "valor": 800,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "PE",
+        "cidade": "Recife",
+        "lat": -8,
+        "lng": -35,
+        "valor": 1300,
+        "quant": 1,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    },
+    {
+        "estado": "AC",
+        "cidade": "Rio Branco",
+        "lat": -10,
+        "lng": -68,
+        "valor": 401,
+        "quant": 10,
+        "lat0": -22.827467,
+        "lng0": -47.064876
+    }
+]
